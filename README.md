@@ -1,1 +1,1 @@
-# Recruiter-Agency-using-LangGraph
+Made an AI recruiting agency using LangGraph framework.
